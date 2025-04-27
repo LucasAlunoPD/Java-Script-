@@ -1,2 +1,2 @@
 # Java-Script-
-Projeto Desenvolve - Itabira MG - ( Programação básica com Python) ) - Matríula PDITA660
+Projeto Desenvolve - Itabira MG - ( Programação básica com JS) ) - Matríula PDITA660
